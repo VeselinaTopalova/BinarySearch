@@ -1,7 +1,0 @@
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
-C:\Users\Acer\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
